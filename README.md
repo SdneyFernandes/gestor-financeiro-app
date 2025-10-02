@@ -6,6 +6,11 @@
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-13-blue.svg)
 ![H2](https://img.shields.io/badge/Database-H2_InMemory-lightgrey.svg)
 
+<img width="1000" height="500" alt="iiiiii" src="https://github.com/user-attachments/assets/c4e6023f-fbed-4834-a3c4-4ae92004b24c" />
+
+<img width="1000" height="500" alt="uuuu" src="https://github.com/user-attachments/assets/f78bb326-9fdf-48f0-bf43-830efefabcc1" />
+
+
 ## 📖 Visão Geral do Projeto
 
 Este projeto é um estudo prático que simula um **agregador financeiro inspirado no conceito de Open Finance**. O objetivo principal foi aprender e aplicar uma stack de tecnologia Java tradicionalmente usada no mundo corporativo, composta por **JavaServer Faces (JSF)** e **PrimeFaces**, integrada a um backend moderno com **Spring Boot**.
