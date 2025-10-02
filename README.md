@@ -49,9 +49,9 @@ Para acelerar o desenvolvimento e focar na lógica da aplicação e na nova stac
 ### 1. Clone os 3 Repositórios
 Você precisará da aplicação principal e dos dois bancos fictícios.
 ```bash
-git clone [https://github.com/SEU-USUARIO/meu-gestor-financeiro-app.git](https://github.com/SEU-USUARIO/meu-gestor-financeiro-app.git)
-git clone [(https://github.com/SdneyFernandes/banco-b-api.git)]
-git clone [(https://github.com/SdneyFernandes/banco-b-api.git)]
+git clone [https://github.com/SdneyFernandes/gestor-financeiro-app.git]
+git clone [https://github.com/SdneyFernandes/banco-b-api.git]
+git clone [https://github.com/SdneyFernandes/banco-b-api.git]
 ```
 
 ### 2. Inicie as APIs dos Bancos Fictícios
